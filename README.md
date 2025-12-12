@@ -22,8 +22,7 @@ stow .
 # This repo is still under development. I will be adding a install script soon 
 # so that the necessary application and dependencies will be installed
 ```
-
-## > [!NOTE]
-> Some of the files containing secrets are encrypted. Please replace them with your secrets before running.
+> [!NOTE]
+> Some of the files containing secrets are encrypted. Please replace them with your secrets before running. check .gitignore for the actual names of those files.
 
 
