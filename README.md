@@ -23,6 +23,6 @@ stow .
 # so that the necessary application and dependencies will be installed
 ```
 > [!NOTE]
-> Some of the files containing secrets are encrypted. Please replace them with your secrets before running. check .gitignore for the actual names of those files.
+> Some of the files containing secrets are encrypted. Please replace them with your secrets before running. Check .gitignore for the actual names of those files.
 
 
